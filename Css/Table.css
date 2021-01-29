@@ -1,0 +1,19 @@
+body, table {
+  text-align: center;
+}
+
+body tr, table tr {
+  text-align: center;
+  border: 1px solid black;
+}
+
+body td, table td {
+  text-align: center;
+  border: 1px solid black;
+}
+
+body th, table th {
+  text-align: center;
+  border: 1px solid black;
+}
+/*# sourceMappingURL=Table.css.map */
