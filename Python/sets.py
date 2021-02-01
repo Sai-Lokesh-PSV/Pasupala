@@ -9,3 +9,5 @@ s.add(hello)
 s.add(hi)
 s.add(bye)
 print("here is your set",s)
+
+print(f"the set has {len(s)} elements")
