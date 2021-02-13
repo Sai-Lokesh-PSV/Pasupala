@@ -1,13 +1,13 @@
 # Create an empty set
-s = set()
+b = set()
 
 #adding elements to a set
-hello = input("A number:")
-hi = input("An another number:")
-bye = input("An another number:")
-s.add(hello)
-s.add(hi)
-s.add(bye)
-print("here is your set",s)
+a = input("A number:")
+b = input("An another number:")
+c = input("An another number:")
+b.add(a)
+b.add(b)
+b.add(c)
+print("Here is your set",b)
 
-print(f"the set has {len(s)} elements")
+print(f"the set has {len(b)} elements")

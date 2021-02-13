@@ -1,3 +1,4 @@
+print("This code is to test the given number is zero or not")
 n = int(input("Number :"))
 
 if n > 0: 
