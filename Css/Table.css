@@ -1,19 +1,18 @@
-body, table {
-  text-align: center;
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
 
-body tr, table tr {
-  text-align: center;
+td {
   border: 1px solid black;
+  padding: 2px;
 }
 
-body td, table td {
-  text-align: center;
-  border: 1px solid black;
+th {
+  border: 1px solid rgb(165, 145, 145);
+  padding: 2px;
 }
 
-body th, table th {
-  text-align: center;
-  border: 1px solid black;
+body{
+  text-align:center;
 }
-/*# sourceMappingURL=Table.css.map */
